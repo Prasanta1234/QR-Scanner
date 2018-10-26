@@ -1,4 +1,4 @@
-whatsupp bro??
+Nice one..bt wud b better if u improve d design part
 # qr_scanner
 
 A new Flutter application.
